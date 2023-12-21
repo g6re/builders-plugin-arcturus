@@ -1,0 +1,9 @@
+com\eu\habbo\builders\BuildersEssentials.class
+com\eu\habbo\builders\room\SetRotation.class
+com\eu\habbo\builders\commands\SetRotationCommand.class
+com\eu\habbo\builders\commands\BuildHeightCommand.class
+com\eu\habbo\builders\room\SetBuildHeight.class
+com\eu\habbo\builders\room\SetState.class
+com\eu\habbo\builders\events\EmulatorLoad.class
+com\eu\habbo\builders\utils\Extras.class
+com\eu\habbo\builders\commands\SetStateCommand.class
